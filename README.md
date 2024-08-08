@@ -1,5 +1,5 @@
 ## Classification of figures
-Figure categorization with two learning models (Logistic Regression and Multilayer Perceptron) and done with Python.
+Figures categorization with two learning models (Logistic Regression and Multilayer Perceptron) and done with Python.
 
 ## Project collaborators
 <ul>
