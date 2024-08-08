@@ -1,6 +1,7 @@
-### Clasificación de figuras con dos modelos de aprendizaje (Regresión Logística y Perceptrón Multicapa) y hecho con Python. 
+## Classification of figures
+Figure categorization with two learning models (Logistic Regression and Multilayer Perceptron) and done with Python.
 
-## Colaboradores del proyecto
+## Project collaborators
 <ul>
   <li>@RogerCC123ABC</li>
   <li>@GerardoYael13</li>
